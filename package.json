@@ -1,0 +1,8 @@
+{
+  "name": "tracking-checker",
+  "type": "module",
+  "dependencies": {
+    "puppeteer-core": "^21.3.8",
+    "@sparticuz/chromium": "^110.0.0"
+  }
+}
